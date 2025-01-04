@@ -29,4 +29,4 @@ async def repeat(ctx, times: int, content= "repeating..."):
         await ctx.send(content)
 
 
-bot.run("MTMyMjY1Mzc1NjYyOTcxMjkwNg.G3YTWu.cv9-0OtfVRy1wcLgD0RVYRDUpPbEAdedMb78nM")
+bot.run()
